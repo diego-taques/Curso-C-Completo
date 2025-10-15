@@ -1,0 +1,7 @@
+C:\Cursos C#\Curso-C-Completo\ConveaoExplicita\ConveaoExplicita\bin\Debug\ConveaoExplicita.exe.config
+C:\Cursos C#\Curso-C-Completo\ConveaoExplicita\ConveaoExplicita\bin\Debug\ConveaoExplicita.exe
+C:\Cursos C#\Curso-C-Completo\ConveaoExplicita\ConveaoExplicita\bin\Debug\ConveaoExplicita.pdb
+C:\Cursos C#\Curso-C-Completo\ConveaoExplicita\ConveaoExplicita\obj\Debug\ConveaoExplicita.csproj.AssemblyReference.cache
+C:\Cursos C#\Curso-C-Completo\ConveaoExplicita\ConveaoExplicita\obj\Debug\ConveaoExplicita.csproj.CoreCompileInputs.cache
+C:\Cursos C#\Curso-C-Completo\ConveaoExplicita\ConveaoExplicita\obj\Debug\ConveaoExplicita.exe
+C:\Cursos C#\Curso-C-Completo\ConveaoExplicita\ConveaoExplicita\obj\Debug\ConveaoExplicita.pdb
