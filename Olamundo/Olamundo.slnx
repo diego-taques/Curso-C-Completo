@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../ConsoleAppDotNet/ConsoleAppDotNet.csproj" Id="cd55b3b3-e89f-4e5a-82c9-1c4d2a8d719d" />
+  <Project Path="../ConsoleAppNetFramework/ConsoleAppNetFramework.csproj" Id="78b15291-6817-4a06-a7db-08783572292d" />
+  <Project Path="../ConsoleAppTopLevel/ConsoleAppTopLevel.csproj" Id="5389b394-2c70-4352-8fa5-35b797be79c9" />
+  <Project Path="../FormsAppNetFramework/FormsAppNetFramework.csproj" Id="55cfe014-1b78-4fcb-b069-c6e651c1d9b2" />
+  <Project Path="Olamundo.csproj" />
+</Solution>

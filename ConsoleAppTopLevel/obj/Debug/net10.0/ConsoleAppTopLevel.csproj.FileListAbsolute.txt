@@ -1,0 +1,14 @@
+C:\Cursos C#\Curso-C-Completo\ConsoleAppTopLevel\bin\Debug\net10.0\ConsoleAppTopLevel.exe
+C:\Cursos C#\Curso-C-Completo\ConsoleAppTopLevel\bin\Debug\net10.0\ConsoleAppTopLevel.deps.json
+C:\Cursos C#\Curso-C-Completo\ConsoleAppTopLevel\bin\Debug\net10.0\ConsoleAppTopLevel.runtimeconfig.json
+C:\Cursos C#\Curso-C-Completo\ConsoleAppTopLevel\bin\Debug\net10.0\ConsoleAppTopLevel.dll
+C:\Cursos C#\Curso-C-Completo\ConsoleAppTopLevel\bin\Debug\net10.0\ConsoleAppTopLevel.pdb
+C:\Cursos C#\Curso-C-Completo\ConsoleAppTopLevel\obj\Debug\net10.0\ConsoleAppTopLevel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos C#\Curso-C-Completo\ConsoleAppTopLevel\obj\Debug\net10.0\ConsoleAppTopLevel.AssemblyInfoInputs.cache
+C:\Cursos C#\Curso-C-Completo\ConsoleAppTopLevel\obj\Debug\net10.0\ConsoleAppTopLevel.AssemblyInfo.cs
+C:\Cursos C#\Curso-C-Completo\ConsoleAppTopLevel\obj\Debug\net10.0\ConsoleAppTopLevel.csproj.CoreCompileInputs.cache
+C:\Cursos C#\Curso-C-Completo\ConsoleAppTopLevel\obj\Debug\net10.0\ConsoleAppTopLevel.dll
+C:\Cursos C#\Curso-C-Completo\ConsoleAppTopLevel\obj\Debug\net10.0\refint\ConsoleAppTopLevel.dll
+C:\Cursos C#\Curso-C-Completo\ConsoleAppTopLevel\obj\Debug\net10.0\ConsoleAppTopLevel.pdb
+C:\Cursos C#\Curso-C-Completo\ConsoleAppTopLevel\obj\Debug\net10.0\ConsoleAppTopLevel.genruntimeconfig.cache
+C:\Cursos C#\Curso-C-Completo\ConsoleAppTopLevel\obj\Debug\net10.0\ref\ConsoleAppTopLevel.dll

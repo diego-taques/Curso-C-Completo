@@ -1,0 +1,7 @@
+C:\Cursos C#\Curso-C-Completo\ConsoleAppNetFramework\bin\Debug\ConsoleAppNetFramework.exe.config
+C:\Cursos C#\Curso-C-Completo\ConsoleAppNetFramework\bin\Debug\ConsoleAppNetFramework.exe
+C:\Cursos C#\Curso-C-Completo\ConsoleAppNetFramework\bin\Debug\ConsoleAppNetFramework.pdb
+C:\Cursos C#\Curso-C-Completo\ConsoleAppNetFramework\obj\Debug\ConsoleAppNetFramework.csproj.AssemblyReference.cache
+C:\Cursos C#\Curso-C-Completo\ConsoleAppNetFramework\obj\Debug\ConsoleAppNetFramework.csproj.CoreCompileInputs.cache
+C:\Cursos C#\Curso-C-Completo\ConsoleAppNetFramework\obj\Debug\ConsoleAppNetFramework.exe
+C:\Cursos C#\Curso-C-Completo\ConsoleAppNetFramework\obj\Debug\ConsoleAppNetFramework.pdb

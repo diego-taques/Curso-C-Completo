@@ -1,0 +1,14 @@
+C:\Cursos C#\Curso-C-Completo\ConsoleAppDotNet\bin\Release\net10.0\ConsoleAppDotNet.exe
+C:\Cursos C#\Curso-C-Completo\ConsoleAppDotNet\bin\Release\net10.0\ConsoleAppDotNet.deps.json
+C:\Cursos C#\Curso-C-Completo\ConsoleAppDotNet\bin\Release\net10.0\ConsoleAppDotNet.runtimeconfig.json
+C:\Cursos C#\Curso-C-Completo\ConsoleAppDotNet\bin\Release\net10.0\ConsoleAppDotNet.dll
+C:\Cursos C#\Curso-C-Completo\ConsoleAppDotNet\bin\Release\net10.0\ConsoleAppDotNet.pdb
+C:\Cursos C#\Curso-C-Completo\ConsoleAppDotNet\obj\Release\net10.0\ConsoleAppDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos C#\Curso-C-Completo\ConsoleAppDotNet\obj\Release\net10.0\ConsoleAppDotNet.AssemblyInfoInputs.cache
+C:\Cursos C#\Curso-C-Completo\ConsoleAppDotNet\obj\Release\net10.0\ConsoleAppDotNet.AssemblyInfo.cs
+C:\Cursos C#\Curso-C-Completo\ConsoleAppDotNet\obj\Release\net10.0\ConsoleAppDotNet.csproj.CoreCompileInputs.cache
+C:\Cursos C#\Curso-C-Completo\ConsoleAppDotNet\obj\Release\net10.0\ConsoleAppDotNet.dll
+C:\Cursos C#\Curso-C-Completo\ConsoleAppDotNet\obj\Release\net10.0\refint\ConsoleAppDotNet.dll
+C:\Cursos C#\Curso-C-Completo\ConsoleAppDotNet\obj\Release\net10.0\ConsoleAppDotNet.pdb
+C:\Cursos C#\Curso-C-Completo\ConsoleAppDotNet\obj\Release\net10.0\ConsoleAppDotNet.genruntimeconfig.cache
+C:\Cursos C#\Curso-C-Completo\ConsoleAppDotNet\obj\Release\net10.0\ref\ConsoleAppDotNet.dll

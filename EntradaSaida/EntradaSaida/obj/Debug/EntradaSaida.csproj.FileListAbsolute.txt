@@ -1,0 +1,7 @@
+C:\Cursos C#\Curso-C-Completo\EntradaSaida\EntradaSaida\bin\Debug\EntradaSaida.exe.config
+C:\Cursos C#\Curso-C-Completo\EntradaSaida\EntradaSaida\bin\Debug\EntradaSaida.exe
+C:\Cursos C#\Curso-C-Completo\EntradaSaida\EntradaSaida\bin\Debug\EntradaSaida.pdb
+C:\Cursos C#\Curso-C-Completo\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.csproj.AssemblyReference.cache
+C:\Cursos C#\Curso-C-Completo\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.csproj.CoreCompileInputs.cache
+C:\Cursos C#\Curso-C-Completo\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.exe
+C:\Cursos C#\Curso-C-Completo\EntradaSaida\EntradaSaida\obj\Debug\EntradaSaida.pdb
