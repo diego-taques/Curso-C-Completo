@@ -1,0 +1,7 @@
+C:\Cursos C#\Curso-C-Completo\MertodoParse\MertodoParse\bin\Debug\MertodoParse.exe.config
+C:\Cursos C#\Curso-C-Completo\MertodoParse\MertodoParse\bin\Debug\MertodoParse.exe
+C:\Cursos C#\Curso-C-Completo\MertodoParse\MertodoParse\bin\Debug\MertodoParse.pdb
+C:\Cursos C#\Curso-C-Completo\MertodoParse\MertodoParse\obj\Debug\MertodoParse.csproj.AssemblyReference.cache
+C:\Cursos C#\Curso-C-Completo\MertodoParse\MertodoParse\obj\Debug\MertodoParse.csproj.CoreCompileInputs.cache
+C:\Cursos C#\Curso-C-Completo\MertodoParse\MertodoParse\obj\Debug\MertodoParse.exe
+C:\Cursos C#\Curso-C-Completo\MertodoParse\MertodoParse\obj\Debug\MertodoParse.pdb

@@ -1,0 +1,7 @@
+C:\Cursos C#\Curso-C-Completo\Operadores\Operadores\bin\Debug\Operadores.exe.config
+C:\Cursos C#\Curso-C-Completo\Operadores\Operadores\bin\Debug\Operadores.exe
+C:\Cursos C#\Curso-C-Completo\Operadores\Operadores\bin\Debug\Operadores.pdb
+C:\Cursos C#\Curso-C-Completo\Operadores\Operadores\obj\Debug\Operadores.csproj.AssemblyReference.cache
+C:\Cursos C#\Curso-C-Completo\Operadores\Operadores\obj\Debug\Operadores.csproj.CoreCompileInputs.cache
+C:\Cursos C#\Curso-C-Completo\Operadores\Operadores\obj\Debug\Operadores.exe
+C:\Cursos C#\Curso-C-Completo\Operadores\Operadores\obj\Debug\Operadores.pdb

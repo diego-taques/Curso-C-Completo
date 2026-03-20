@@ -1,0 +1,7 @@
+C:\Cursos C#\Curso-C-Completo\Multiolicarmatrizes\Multiolicarmatrizes\bin\Debug\Multiolicarmatrizes.exe.config
+C:\Cursos C#\Curso-C-Completo\Multiolicarmatrizes\Multiolicarmatrizes\bin\Debug\Multiolicarmatrizes.exe
+C:\Cursos C#\Curso-C-Completo\Multiolicarmatrizes\Multiolicarmatrizes\bin\Debug\Multiolicarmatrizes.pdb
+C:\Cursos C#\Curso-C-Completo\Multiolicarmatrizes\Multiolicarmatrizes\obj\Debug\Multiolicarmatrizes.csproj.AssemblyReference.cache
+C:\Cursos C#\Curso-C-Completo\Multiolicarmatrizes\Multiolicarmatrizes\obj\Debug\Multiolicarmatrizes.csproj.CoreCompileInputs.cache
+C:\Cursos C#\Curso-C-Completo\Multiolicarmatrizes\Multiolicarmatrizes\obj\Debug\Multiolicarmatrizes.exe
+C:\Cursos C#\Curso-C-Completo\Multiolicarmatrizes\Multiolicarmatrizes\obj\Debug\Multiolicarmatrizes.pdb
